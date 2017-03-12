@@ -4,8 +4,9 @@
 - Knuth-Morris-Pratt (KMP)
 
 机器学习中的算法
-- K-Nearest Neighbor (KNN)
-- Linear Regression 
-- Support Vector Machine (SVM)
-
--   Red
+- Clustering （聚类）
+- K-Nearest Neighbor (K临近值)
+- Linear Regression （线性回归）
+- Mean Shift (均值移动）
+- Support Vector Machine (支持向量机)
+- Neural Network (神经网络)
