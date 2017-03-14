@@ -10,3 +10,4 @@
 - Mean Shift (均值移动）
 - Support Vector Machine (支持向量机)
 - Neural Network (神经网络)
+- Random Forest (随机森林）
